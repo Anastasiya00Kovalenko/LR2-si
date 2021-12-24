@@ -1,0 +1,13 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+                       
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --depend=.\ob
+jects\main_1.d -o.\objects\main_1.o -I.\RTE\_Target_1 -IC:\Keil_v5\ARM\PACK\Kei
+l\STM32F1xx_DFP\2.3.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine
+="__EVAL SETA 1" --predefine="__UVISION_VERSION SETA 524" --predefine="STM32F10
+X_MD SETA 1" --list=.\listings\main_1.lst main_1.s
+333 symbols in table
